@@ -1,0 +1,32 @@
+header {
+    background-color: blueviolet;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 5px;
+    border: black inset;
+    border-radius: 50px;
+    border-width: 10px;
+
+}
+
+nav {
+    background-color: pink;
+    border: black inset;
+    border-radius: 50px;
+    height: 150px;
+    padding: 10px 10px 10px;
+    font-size: x-large;
+    font-style: italic;
+
+}
+
+main {
+    border: black inset;
+    padding-right: 200px;
+    text-align: center;
+    background-color: pink;
+    border-radius: 50px;
+    border-width: 5px;
+
+}

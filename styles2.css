@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    font-size: larger;
+    background-color: violet;
+    border: black inset;
+    border-radius: 15px;
+}
+
+nav {
+    font-size: larger;
+    background-color: violet;
+    border: black inset;
+    border-radius: 100000px;
+}
+
+body {
+
+    background-color: rgb(255, 0, 191);
+    border: 10px black inset;
+    margin: 10 10 10 10;
+
+}
